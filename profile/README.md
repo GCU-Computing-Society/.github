@@ -7,4 +7,4 @@ The documentation for the Church of Computing can be found in a separate reposit
 
 All code for workshops that you will be provided with can also be found here!
 
-In the future, we might even put projects in here as a way of showcasing what students have made!****
+In the future, we might even put projects in here as a way of showcasing what students have made!
